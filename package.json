@@ -1,0 +1,29 @@
+{
+  "name": "sons-editor",
+  "version": "1.0.0",
+  "description": "Sons of The Forest Savegame Editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borsuczyna/sons-editor.git"
+  },
+  "keywords": [
+    "sons",
+    "of",
+    "the",
+    "forest",
+    "savegame",
+    "editor",
+    "save",
+    "game"
+  ],
+  "author": "borsuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/borsuczyna/sons-editor/issues"
+  },
+  "homepage": "https://github.com/borsuczyna/sons-editor#readme"
+}
